@@ -1,0 +1,70 @@
+
+.navbar {
+    background-color: white;
+}
+
+h1 {
+    padding-left: 50%;
+}
+#m {
+    width: auto;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 10%;
+}
+#b {
+    width: 30%;
+    height: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 10%;
+}
+#c {
+    width: 50;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 10%;
+
+}
+#t {
+    padding-left: 69%;
+    float:left;
+    float: top;
+}
+#g {
+    padding-left: 39%;
+}
+#h {
+    padding-left: 41%;
+}
+#y {
+    padding-left: 69%;
+}
+#q {
+    padding-left: 41%;
+}
+#n {
+    padding-left: 41%;
+}
+#z {
+    padding-left: 40%;
+}
+#love {
+    padding-left: 69%;
+}
+#k {
+    width: 31%;
+    height: 10%;
+    padding-left: 39%;
+}
+#u {
+    padding-left: 39%;
+}
+body {
+    background-color: whitesmoke;
+}
